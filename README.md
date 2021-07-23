@@ -1,4 +1,4 @@
-# Drupal RSS Feed
+# Drupal RSS Feed Example
 
 This is a sample RSS feed that passes source code validation.
 
